@@ -3,4 +3,4 @@
 
 **Get Started**
 + Once in the directory for the project, run `pip install -r requirements.txt` to install the required Python package (pygame) for this project.
-+ Then, run the file runner.py
++ Then, run the file `runner.py`
